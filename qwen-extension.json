@@ -1,0 +1,8 @@
+{
+  "name": "web-researcher",
+  "version": "1.0.0",
+  "contextFileName": "QWEN.md",
+  "agents": "agents",
+  "skills": "skills",
+  "commands": "commands"
+}
