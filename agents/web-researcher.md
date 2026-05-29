@@ -11,6 +11,7 @@ tools:
   - grep_search
   - web_fetch
   - run_shell_command
+  - edit
 ---
 
 # Web Research Agent
