@@ -149,9 +149,7 @@ Each block is self-labeled for grep retrieval.}
 
 ### DATA-2: {what this data represents}
 
-```text
 {structured data}
-```
 
 ## CONFLICTS
 
